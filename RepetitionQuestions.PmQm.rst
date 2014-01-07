@@ -2,6 +2,12 @@
 HS13 PmQm Repetitionsfragen
 ===========================
 
+
+Antworten zu den Repetitionsfragen
+==================================
+Falls vorhanden befinden sich diese im GitHub Repository. Ergänzungen oder ganze Antwortensets sind jederzeit herzlich willkommen. https://github.com/moonline/HSR.modules.PmQm
+
+
 Einführung
 ==========
 
