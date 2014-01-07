@@ -286,5 +286,165 @@ Warum ist für ein zuverlässiges Releasemanagement Automation dringend notwendi
 Wie helfen Tags und Branches die Automatisierte Entwicklung in Ordnung zu behalten? Skizzieren Sie ein Beispiel.
 
 
+Qualitätsmanagement
+===================
+**8.0.1.**
+Welche Auswirkungen haben unscharfe Anforderungen auf die Qualität auf das Endprodukt?
+
+**8.0.2.**
+Definieren Sie Qualität.
+
+**8.0.3.**
+Welche qualitätsrelevanten Interessen haben Produzent und Kunde an einem Produkt?
+
+**8.0.4.**
+Zeichen Sie den Kostenverlauf in Abhängigkeit der verstrichenen Projektzeit für einen zu behebende Fehler.
+
+**8.0.6.**
+Erklären Sie die Aufgabenteilung im OM Framework?
+
+**8.0.7.**
+Wie teilt sich die Arbeit zwischen Qualitätssicherung und Softwareengineering bezüglich Qualitätsmanagement auf?
+
+**8.0.8.**
+Erklären Sie das Submodel QS.
+
+**8.0.9.**
+Was ist die FMECA Analyse?
+
+
+Configurationmanagement
+=======================
+**9.0.1.**
+Was ist Configurationmanagement und welche Aspekte umfasst es alles?
+
+**9.0.2.**
+Warum braucht es Configurationmanagement?
+
+**9.0.3.**
+Nennen Sie vier Hauptaktivitäten die ins Configurationmanagement gehören.
+
+**9.0.4.**
+Wann starten Sie in einem Projekt mit Configurationmanagement?
+
+**9.0.5.**
+Nennen Sie fünf typische Fragen, auf die Configurationmanagement Antwort geben muss.
+
+**9.0.6.**
+Was ist eine Software Configuration? Was ist ein Software Element?
+
+**9.0.7.**
+Was ist eine Referenzkonfiguration?
+
+**9.0.8.**
+Was sind Releases, Versionen und Builds/Updates? Wie korrespondieren diese mit einer Versionsnummer wie v2.5.6?
+
+**9.0.9.**
+Warum sollten Sie Varianten wann immer möglich vermeiden? 
+
+**9.0.10.**
+Welche Auswirkungen habt die Änderung eines Software Elements auf die gesammte Configuration?
+
+**9.0.11.**
+Skizzieren Sie den Change Prozess?
+
+**9.0.12.**
+Warum müssen Änderungswünsche immer über ein Change Management laufen, selbst wenn sie nicht zu einer Verteuerung oder Verzögerung des Projektes führen?
+
+
+Management
+==========
+**10.0.1.**
+Wie hängt der Selbstständigungsgrad/Ausbildung/Erfahrung von Mitarbeitern und der Führungsaufwand zusammen?
+
+**10.0.2.**
+Durch welche fünf Arten lassen sich Arbeitsabläufe koordinieren?
+
+**10.0.3.**
+Was ist Management?
+
+**10.0.4.**
+Wie entwickelt sich der Projektmanager Aufwand für Entwicklungsprojekte mit der Grösse?
+
+**10.0.5.**
+Warum und wozu wird unbedingt ein Steering Commitee benötigt?
+
+**10.0.6.**
+Welche Stakeholder nehmen auf das Projekt Einfluss und müssen beim Management berücksichtigt werden?
+
+**10.0.7.**
+Wie sieht eine typische Rollenverteilung beim Management aus?
+
+**10.0.8.**
+Wie gross soll ein Projektteam sein?
+
+**10.0.9.**
+Zeichnen Sie eine Kurve wie der Führungsaufwand mit den Anzahl Mitarbeitern steigt.
+
+**10.0.10.**
+Welche Aufgaben hat der Projektmanager? 
+
+**10.0.11.**
+Welche Aufgaben hat der PM in den einzelnen Phasen: Planungsphase, Führungsphase?
+
+**10.0.12.**
+
+
+Normen und Standards
+====================
+**11.0.1.**
+Was ist Normung?
+
+**11.0.2.**
+Was bringt Normung? Was habe ich als Firma für direkte Nutzen?
+
+**11.0.3.**
+Nennen Sie mindestens fünf Kriterien, die Normen erfüllen müssen.
+
+**11.0.4.**
+Welche Bedeutung haben Normen im Internationalen Bereich und für eine Volkswirtschaft konkret??
+
+**11.0.5.**
+Welche Arten von Normen gibt es? Erklären Sie jede Art.
+
+**11.0.6.**
+Unter Welchem Dach werden weltweite Normen verfasst?
+
+**11.0.7.**
+Was normieren die folgenden Normen:
+a) ISO 9000
+b) ISO 9001
+c) ISO 9002
+d) ISO 9003
+e) ISO 9004
+
+**11.0.8.**
+Was ist DoD?
+
+**11.0.9.**
+Was ist CMMI? Wie funktioniert das Stufenmodell? Warum haben Firmen in schnell wechselnden Umfeldern schwierigkeiten über Level 3 zu kommen?
+
+**11.0.10.**
+Was ist Basel II?
+
+**11.0.11**
+Was beinhaltet SOX?
+
+
+COBIT
+-----
+**11.1.1.**
+Was ist COBIT? Was regelt COBIT?
+
+**11.1.2.**
+Zeigen Sie das Grundmodel hinter COBIT auf.
+
+**11.1.3.**
+Welche Anforderungen stellt COBIT an ein Control Framework?
+
+**11.1.4.33.**
+Wie funktioniert der COBIT Zyklus / Prozess?
+
+
 
 
